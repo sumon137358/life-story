@@ -1,7 +1,13 @@
 this is test1.
 and another test1.
-a have completed hsc in 2008
+a have completed hsc in 2019
 jkkkkk
 i have completed msc
 i have muster completed 
+<<<<<<< HEAD
 another added
+=======
+i have started full stack web 
+added new data
+i have completed my msc 2001
+>>>>>>> b9f34030a9255dba85fc1f6945021fd12f7f9b0e
